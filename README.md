@@ -9,8 +9,7 @@ branches, one shared gain set driving both channels); corner faders with meterin
 (replacing dials that injected DC offset); block-interpolated gains (CV-swept vector
 moves no longer zipper); cursor defaults to corner 1 so inserting the unit is
 transparent; and an **equal-power mix law** menu option (constant loudness for four
-unrelated sources — amplitude mode remains the default and is right for correlated
-material).
+unrelated sources. Amplitude mode is the default).
 
 ## Corner layout
 
