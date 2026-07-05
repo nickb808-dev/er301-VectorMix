@@ -2,7 +2,7 @@
 
 **Version 0.3.0**
 
-A 4-input vector crossfader for the ER-301. Four audio signals are placed at the corners of a unit square. Two CV inputs (X and Y) move a cursor through that space, blending the four inputs by their distance from the cursor. A third CV input (Law) morphs the blend from circular overlap through linear crossfade to sharp quadrant gating.
+A 4-input vector crossfader for the ER-301. Four audio signals are placed at the corners of a square. Two CV inputs (X and Y) move a cursor through that space, blending the four inputs by their distance from the cursor. A third CV input (Law) morphs the blend from circular overlap through linear crossfade to sharp quadrant gating.
 
 **New in v0.3.0:** true stereo in stereo lanes (chain L/R at corner 1, stereo corner
 branches, one shared gain set driving both channels); corner faders with metering
